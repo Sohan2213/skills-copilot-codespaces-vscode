@@ -21,3 +21,4 @@ member: "="
 git add member.js
 git commit -m "Copilot second commit"
 git push
+git pull
