@@ -16,3 +16,4 @@ router.post('/create', commentController.comment_create_p
 router.get('/:id/delete', commentController.comment_delet
 git add comments.js
 git commit -m "Copilot third commit"
+git push
